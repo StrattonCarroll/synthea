@@ -24,7 +24,7 @@ public class C19ImmunizationModuleTest {
 
   @Before
   public void setup() {
-    Location here = new Location("Massachusetts", "Billerica");
+    Location here = new Location("Arkansas", "Tyson Employees");
     PayerManager.loadPayers(here);
   }
 
